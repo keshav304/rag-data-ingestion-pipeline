@@ -1,0 +1,11 @@
+pymongo
+openai
+langchain
+langchain-community
+langchain-core
+pypdf
+langchain-text-splitters
+sentence-transformers
+langchain-openai
+python-dotenv
+requests
